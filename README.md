@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Anindita_saha04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anindita_saha04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Anindita saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anindita saha" height="30" width="40" /></a>
-<a href="https://fb.com/Anindita saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Anindita saha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Anindita Saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anindita Saha" height="30" width="40" /></a>
+<a href="https://fb.com/Anindita Saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Anindita Saha" height="30" width="40" /></a>
 <a href="https://instagram.com/anindita_saha_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anindita_saha_04" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anindita_saha_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anindita_saha_04" height="30" width="40" /></a>
 </p>
