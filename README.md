@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aninditasaha1307@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I like to have a good watch to look at my bad times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
