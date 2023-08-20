@@ -1,6 +1,8 @@
  <h1 align="center">Hi 👋, I'm Anindita Saha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anindita2004&label=Profile%20views&color=0e75b6&style=flat" alt="anindita2004" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anindita2004" alt="anindita2004" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/anindita_saha04" target="blank"><img src="https://img.shields.io/twitter/follow/anindita_saha04?logo=twitter&style=for-the-badge" alt="anindita_saha04" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
