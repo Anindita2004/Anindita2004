@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/anindita_saha04" target="blank"><img src="https://img.shields.io/twitter/follow/anindita_saha04?logo=twitter&style=for-the-badge" alt="anindita_saha04" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **HTML , CSS , java**
+- 💬 Ask me about **HTML , CSS , javascript ,C++ ,python**
 
 - 📫 How to reach me **aninditasaha1307@gmail.com**
 
